@@ -77,3 +77,6 @@ payload:
   - DOMAIN-SUFFIX,wunderlist.com
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
+  - IP-CIDR,10.10.254.0/24
+  - IP-CIDR,192.168.1.0/24
+  - IP-CIDR,192.168.0.0/24
