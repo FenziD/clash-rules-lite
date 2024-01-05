@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,sex
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-SUFFIX,madou.club
